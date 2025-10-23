@@ -1,4 +1,4 @@
-# -Posture-Chair-Technothon-2025-2026
+# Posture-Chair
 This is for the TAMU technothon 2025-2026
 
 ## Project overview
